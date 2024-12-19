@@ -2,8 +2,7 @@
 
 ## About Me
 
-Hello! I'm Suraj, a passionate [Your Profession, e.g., Full Stack Developer, Data Scientist, Web Designer, etc.] with a strong interest in [Your Interests or Technologies]. I am always excited about learning new technologies and applying them to real-world challenges. My journey in the world of [technology/field] started with [Briefly mention your background or experience], and since then, I've worked on [mention some key experiences or technologies you've worked with].
-
+Hello! I'm Suraj, a passionate [of python Developer with a strong interest in developing projects. I am always excited about learning new technologies and applying them to real-world challenges. 
 I specialize in:
 - [Skill 1]
 - [Skill 2]
