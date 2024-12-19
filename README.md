@@ -4,10 +4,9 @@
 
 Hello! I'm Suraj, a passionate [of python Developer with a strong interest in developing projects. I am always excited about learning new technologies and applying them to real-world challenges. 
 I specialize in:
-- [Skill 1]
-- [Skill 2]
-- [Skill 3]
-- [Skill 4]
+- SQL
+- PYTHON
+- DJANGO
 
 When I'm not coding, you can find me [mention your hobbies, e.g., exploring new places, reading, playing games, etc.].
 
