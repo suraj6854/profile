@@ -1,2 +1,1 @@
-# profile
-its all about me</br>
+I want to become an python Jr.developer, capable of understanding and generating smaple coding projects. My strengths problem-solving, and technical writing. I can generate ideas like sample projetcs and interested in learning. I also have the ability to develop sample projects with the help of team members. My main goal is to objectives with clarity, efficiency, and creativity.
